@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
@@ -63,4 +64,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
