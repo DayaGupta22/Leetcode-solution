@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/2288-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
