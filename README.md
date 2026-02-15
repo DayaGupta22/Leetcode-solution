@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0006-zigzag-conversion) |
+| [0205-isomorphic-strings](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
