@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
+| [3488-closest-equal-element-queries](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
+| [3488-closest-equal-element-queries](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1539-kth-missing-positive-number) |
+| [3488-closest-equal-element-queries](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
