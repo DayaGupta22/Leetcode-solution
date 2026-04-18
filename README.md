@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3488-closest-equal-element-queries](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Sorting
 |  |
 | ------- |
