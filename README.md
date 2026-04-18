@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2413-smallest-even-multiple) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
