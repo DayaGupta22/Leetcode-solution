@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/2288-count-operations-to-obtain-zero) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
