@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2413-smallest-even-multiple) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2413-smallest-even-multiple) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
