@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Matrix
 |  |
 | ------- |
