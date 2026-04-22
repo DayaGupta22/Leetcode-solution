@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0205-isomorphic-strings](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0392-is-subsequence) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Bit Manipulation
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
