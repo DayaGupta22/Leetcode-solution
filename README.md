@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2615-sum-of-distances) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2413-smallest-even-multiple) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2833-furthest-point-from-origin) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
