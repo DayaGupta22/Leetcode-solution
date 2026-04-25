@@ -228,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
