@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1539-kth-missing-positive-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
