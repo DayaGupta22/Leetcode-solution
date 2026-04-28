@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Dynamic Programming
