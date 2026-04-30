@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [3225-maximum-score-from-grid-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
