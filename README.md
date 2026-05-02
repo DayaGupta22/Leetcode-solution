@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2615-sum-of-distances](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
 ## Counting
@@ -273,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
