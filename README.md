@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0205-isomorphic-strings](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -278,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
