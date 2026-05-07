@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3488-closest-equal-element-queries) |
+| [3660-jump-game-ix](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0788-rotated-digits) |
 | [3225-maximum-score-from-grid-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
+| [3660-jump-game-ix](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Greedy
 |  |
