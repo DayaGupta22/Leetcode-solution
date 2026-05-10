@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2615-sum-of-distances) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0788-rotated-digits) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
