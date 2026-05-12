@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0788-rotated-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2413-smallest-even-multiple) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1914-cyclically-rotating-a-grid) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/2288-count-operations-to-obtain-zero) |
 ## Union-Find
 |  |
