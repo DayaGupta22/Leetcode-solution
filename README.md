@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2615-sum-of-distances](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2615-sum-of-distances) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0205-isomorphic-strings](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
