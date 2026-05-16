@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0860-lemonade-change) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
