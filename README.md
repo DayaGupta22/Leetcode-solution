@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1306-jump-game-iii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1539-kth-missing-positive-number) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0841-keys-and-rooms) |
+| [1306-jump-game-iii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0841-keys-and-rooms) |
+| [1306-jump-game-iii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Simulation
