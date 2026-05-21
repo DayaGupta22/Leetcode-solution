@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2615-sum-of-distances](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2615-sum-of-distances) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2833-furthest-point-from-origin](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2833-furthest-point-from-origin) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
