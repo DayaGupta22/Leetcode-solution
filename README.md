@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3488-closest-equal-element-queries) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3660-jump-game-ix](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2413-smallest-even-multiple) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
