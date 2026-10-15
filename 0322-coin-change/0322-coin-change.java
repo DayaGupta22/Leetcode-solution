@@ -1,18 +1,62 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int [][]dp = new int [coins.length+1][amount+1];
-       for (int[] row : dp) {
-    Arrays.fill(row, -1);
-}
+        int n = coins.length;
+        int[][] dp = new int[n + 1][amount + 1];
 
-        int ans= MinCoins(coins,amount,dp,coins.length-1);
-
-        if(ans >= Integer.MAX_VALUE){
-            return -1;
+        // Initialize DP table
+        for (int[] row : dp) {
+            Arrays.fill(row, Integer.MAX_VALUE);
         }
-        else 
-            return ans;
+
+        // Base case: amount 0 requires 0 coins
+        for (int i = 0; i <= n; i++) {
+            dp[i][0] = 0;
+        }
+
+        for (int i = 1; i <= n; i++) {
+            for (int t = 1; t <= amount; t++) {
+
+                // Do not take the current coin
+                int noTake = dp[i - 1][t];
+
+                // Take the current coin
+                int take = Integer.MAX_VALUE;
+
+                if (coins[i - 1] <= t &&
+                    dp[i][t - coins[i - 1]] != Integer.MAX_VALUE) {
+
+                    take = 1 + dp[i][t - coins[i - 1]];
+                }
+
+                dp[i][t] = Math.min(take, noTake);
+            }
+        }
+
+        int ans = dp[n][amount];
+
+        return ans == Integer.MAX_VALUE ? -1 : ans;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     private int MinCoins(int [] coins,int amount,int [][] dp,int n ){
         if(n ==0){
             if(amount %coins[0] == 0) return  amount/coins[0]; 
