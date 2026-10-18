@@ -1,26 +1,36 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
-        int[][] dp = new int [n+1][n+1];
-        for (int[] row : dp) {
-            Arrays.fill(row, 0);
-        }
-
-        for(int ind = n-1;ind>=0;ind--){
+        // int[][] dp = new int [n+1][n+1];
+        // for (int[] row : dp) {
+        //     Arrays.fill(row, 0);
+        // }
+        // for(int ind = n-1;ind>=0;ind--){
+        //     for(int prev = ind-1;prev>=-1;prev--){
+        //         int len= 0+ dp[ind+1][prev+1];
+        //         if( prev ==-1 || nums[ind] > nums[prev]){
+        //             len = Math.max(len ,1+ dp[ind+1][ind+1]);
+        //         }
+        //          dp[ind][prev+1]= len;
+        //     }
+        // }
+        // return dp[0][-1+1];
+        int [] next = new int [n+1];
+        Arrays.fill(next,0);
+         int [] curr = new int [n+1];
+        Arrays.fill(curr,0);
+           for(int ind = n-1;ind>=0;ind--){
             for(int prev = ind-1;prev>=-1;prev--){
-                int len= 0+ dp[ind+1][prev+1];
+                int len= 0+ next[prev+1];
                 if( prev ==-1 || nums[ind] > nums[prev]){
-                    len = Math.max(len ,1+ dp[ind+1][ind+1]);
+                    len = Math.max(len ,1+ next[ind+1]);
                 }
-                 dp[ind][prev+1]= len;
+                 curr[prev+1]= len;
             }
+            next = curr;
         }
-        return dp[0][-1+1];
+        return next[-1+1];
        
-
-
-
-
     }  
 
     //  private int solution (int index, int prev , int [] nums , int n ){
