@@ -1,26 +1,51 @@
 class Solution {
     public int change(int amount, int[] coins) {
-        int [][] dp = new int [coins.length+1][amount+1];
-       for(int[] row :dp){
-        Arrays.fill(row,-1);
-       }
-       for(int target =0;target<=amount;target++){
-        dp[0][target]=target % coins[0] == 0 ? 1 : 0;
-       }
+    //     int [][] dp = new int [coins.length+1][amount+1];
+    //    for(int[] row :dp){
+    //     Arrays.fill(row,-1);
+    //    }
+        int[] prev = new int [amount+1];
+        Arrays.fill(prev,0);
+        int[] curr = new int [amount+1];
+        Arrays.fill(curr,0);
+
+        for(int target =0;target<=amount;target++){
+            prev[target]=target % coins[0] == 0 ? 1 : 0;
+        }
 
        for(int index =1;index<coins.length;index++){
         for(int target = 0;target <=amount;target++){
-            int notTake = dp[index-1][target];
+            int notTake = prev[target];
             int take=0;
             if(coins[index]<=target ){
-                take =dp[index][target-coins[index]];
+                take =curr[target-coins[index]];
             }
-           dp[index][target]= take + notTake;
+          curr[target]= take + notTake;
 
             }
+            prev=curr;
        }
-       return dp[coins.length-1][amount];
+       return prev[amount];
     } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     private int CoinChange(int index , int target ,int[] amount,int [][] dp){
