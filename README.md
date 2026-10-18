@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0396-rotate-function) |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
