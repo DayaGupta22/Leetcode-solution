@@ -4,8 +4,25 @@ class Solution {
        for(int[] row :dp){
         Arrays.fill(row,-1);
        }
-        return CoinChange(coins.length-1,amount,coins,dp);
+       for(int target =0;target<=amount;target++){
+        dp[0][target]=target % coins[0] == 0 ? 1 : 0;
+       }
+
+       for(int index =1;index<coins.length;index++){
+        for(int target = 0;target <=amount;target++){
+            int notTake = dp[index-1][target];
+            int take=0;
+            if(coins[index]<=target ){
+                take =dp[index][target-coins[index]];
+            }
+           dp[index][target]= take + notTake;
+
+            }
+       }
+       return dp[coins.length-1][amount];
     } 
+
+
     private int CoinChange(int index , int target ,int[] amount,int [][] dp){
         if (index == 0) {
         return target % amount[0] == 0 ? 1 : 0;
@@ -19,4 +36,6 @@ class Solution {
         return dp[index][target]= take + notTake;
 
     }
+
+    
 }
