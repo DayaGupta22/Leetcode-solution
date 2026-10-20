@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0268-missing-number) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
