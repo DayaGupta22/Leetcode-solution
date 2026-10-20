@@ -14,7 +14,9 @@ class Solution {
             return 0;
         }
         if(t[m][n][i] !=-1) return t[m][n][i];
+
         int take =0;
+
         if(list.get(i).first<=m  && list.get(i).second<=n){
             take = 1+solve(list,m-list.get(i).first,n-list.get(i).second,i+1 ,t);
         }
@@ -22,27 +24,68 @@ class Solution {
         return t[m][n][i] =Math.max(take,skip);
     }
 
+ private int Solve(
+            String[] strs,
+            int m,
+            int n,
+            int index, int dp[][][]) {
+
+        if (index == strs.length) {
+            return 0;
+        }
+
+        if (dp[index][m][n] != -1) {
+            return dp[index][m][n];
+        }
+
+        int zeros = 0;
+        int ones = 0;
+
+        for (char ch : strs[index].toCharArray()) {
+            if (ch == '0') {
+                zeros++;
+            } else {
+                ones++;
+            }
+        }
+
+        // Skip
+        int skip = Solve(
+                strs,
+                m,
+                n,
+                index + 1,dp
+        );
+
+        // Take
+        int take = 0;
+
+        if (zeros <= m && ones <= n) {
+
+            take = 1 + Solve(
+                    strs,
+                    m - zeros,
+                    n - ones,
+                    index + 1,dp
+            );
+        }
+
+        return dp[index][m][n] =
+                Math.max(take, skip);
+    }
+
+
+
+
+
     public int findMaxForm(String[] strs, int m, int n) {
-    int[][][] t = new int[101][101][601];
+    int[][][] t = new int[601][101][101];
 
     for (int[][] matrix : t) {
         for (int[] row : matrix) {
             Arrays.fill(row, -1);
         }
-}
-        int N = strs.length;
-        ArrayList<Pair>list = new ArrayList<>();
-        for(int i =0;i<N;i++){
-            int zero =0;
-            int one=0;
-            for(char ch: strs[i].toCharArray()){
-                if(ch =='0'){
-                    zero++;
-                } else one++;
-
-            }
-            list.add(new Pair(zero,one));
-        }
-        return solve(list,m,n,0 ,t);
+    }
+        return Solve(strs,m,n,0 ,t);
     }
 }
