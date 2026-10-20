@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1049-last-stone-weight-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1049-last-stone-weight-ii) |
 | [1306-jump-game-iii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0788-rotated-digits) |
+| [1049-last-stone-weight-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1049-last-stone-weight-ii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3660-jump-game-ix) |
@@ -423,11 +425,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
+| [1049-last-stone-weight-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
