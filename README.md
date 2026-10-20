@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
 | [0796-rotate-string](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -418,11 +421,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
 ## Complete Knapsack
 |  |
 | ------- |
