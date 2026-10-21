@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0860-lemonade-change) |
 | [0879-profitable-schemes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
+| [0931-minimum-falling-path-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1049-last-stone-weight-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1049-last-stone-weight-ii) |
 | [1306-jump-game-iii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1306-jump-game-iii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0788-rotated-digits) |
 | [0879-profitable-schemes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0879-profitable-schemes) |
+| [0931-minimum-falling-path-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1049-last-stone-weight-ii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0221-maximal-square) |
+| [0931-minimum-falling-path-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
