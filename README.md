@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
 | [0796-rotate-string](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0879-profitable-schemes) |
 | [0931-minimum-falling-path-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DayaGupta22/Leetcode-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/DayaGupta22/Leetcode-solution/tree/master/3660-jump-game-ix) |
@@ -466,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
