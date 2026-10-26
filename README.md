@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0788-rotated-digits) |
 | [0879-profitable-schemes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0879-profitable-schemes) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0860-lemonade-change) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1833-maximum-ice-cream-bars) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -490,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0052-n-queens-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
