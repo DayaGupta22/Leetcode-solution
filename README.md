@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0051-n-queens) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0055-jump-game) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0392-is-subsequence) |
@@ -498,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
