@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dayagupt8084/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0052-n-queens-ii) |
+| [0494-target-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0494-target-sum) |
 ## Graph Theory
 |  |
 | ------- |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0879-profitable-schemes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1049-last-stone-weight-ii) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0494-target-sum) |
 | [0879-profitable-schemes](https://github.com/DayaGupta22/Leetcode-solution/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/DayaGupta22/Leetcode-solution/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
